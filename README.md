@@ -1,13 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=446858&assignment_repo_type=GroupAssignmentRepo)
 # Obligatorisk oppgave 1 i Algoritmer og Datastrukturer
 
-Denne oppgaven er en innlevering i Algoritmer og Datastrukturer. 
-Oppgaven er levert av følgende studenter:
-* Mari Ingolfsrud Innvær, s351915, s351915@oslomet.no
-* Marianne Cecilie Heggelund, s189986@oslomet.no
-* Vilde Ytterstad Holmøy, s187161@oslomet.no
-* Hatice Zeynep Nenseth, s348818@oslomet.no...
-
 # Arbeidsfordeling
 
 I oppgaven har vi hatt følgende arbeidsfordeling:
